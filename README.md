@@ -1,4 +1,4 @@
-I made this when I was into game hacking </br>
+I made this when I was into game hacking, quite impressive given my lack of knowledge this field
 
 ### what it does
 - scan game modules for an array of bytes and return address when found;
