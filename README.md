@@ -1,4 +1,4 @@
-this was made by me when I was into game hacking </br>
+I made this when I was into game hacking </br>
 
 ### what it does
 - scan game modules for an array of bytes and return address when found;
